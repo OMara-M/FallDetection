@@ -8,7 +8,8 @@ Matthew O'Mara
 When the app starts the cordinates of the accelerometer will be displayed. When A fall is detected the user will be notified with a toast message.
 
 #App scrreen
-![App picture](atRest.png)
+<img src="atRest.png?raw=true" width="250" />
 
 #App after a fall is detected
-![App picture](phoneFalling.png)
+<img src="phoneFalling.png?raw=true" width="250" />
+
